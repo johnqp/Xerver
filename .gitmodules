@@ -1,0 +1,3 @@
+[submodule "Omnius"]
+	path = Omnius
+	url = git@github.com:Alliance-Network/Omnius.git
